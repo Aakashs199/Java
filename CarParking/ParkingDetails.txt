@@ -1,0 +1,1 @@
+Vehicle 100 exited from lot 1. Amount due: 150
